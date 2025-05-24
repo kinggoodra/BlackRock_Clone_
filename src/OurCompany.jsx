@@ -8,7 +8,6 @@ import Transcript from "./Coustom_Home/Transcript";
 import Teaser from "./Coustom_Home/Teaser";
 import Footer from "./Coustom_Home/Footer";
 import Press from "./Coustom_Home/Press";
-import Sustainability from "./Coustom_Sustainability/Sustainability";
 import NavBar from "./Coustom_Home/Newsroom/NavBar";
 
 export default memo(function OurCompany() {

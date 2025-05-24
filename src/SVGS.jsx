@@ -7,7 +7,7 @@ export default memo(function SVGS({style,img}) {
   return (
     <>
       <Badge variant="secondary" className={style}>
-        <Link to="/">
+        <Link to="/BlackRock_Clone_">
           <img src={img} alt="blackrock.svg" />
         </Link>
       </Badge>

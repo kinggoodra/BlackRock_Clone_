@@ -35,7 +35,7 @@ export default function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/BlackRock_Clone_" element={<Home />} />
         <Route path="/IShare" element={<IShare />} />
         <Route path="/Aladdin" element={<Aladdin />} />
         <Route path="/OurCompany" element={<OurCompany />} />
